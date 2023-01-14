@@ -1,2 +1,2 @@
 # CS-2852
- Covers graphical user interfaces and event-driven programming as well as the organization of data and the algorithms.
+ This course covers graphical user interfaces and event-driven programming as well as the organization of data and the algorithms that act upon them. Various sorting algorithms and data structures are covered. The topics of arrays, linked lists, stacks, queues, trees, sets, and hash tables are introduced. Fundamentals of algorithm performance are also introduced, with an emphasis placed on time complexity analysis. Laboratory activities include implementation of data structures as well as development of GUI applications that apply data structures from standard libraries.
